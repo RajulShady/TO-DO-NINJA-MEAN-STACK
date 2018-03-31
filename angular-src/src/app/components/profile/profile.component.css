@@ -1,0 +1,48 @@
+.ninjaRegister{
+    padding:50px;
+    padding-bottom: 10px;
+}
+.float-center{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px ;
+    padding-bottom: 50px;
+    max-width: 35%;
+    max-height: 35%;
+    
+}
+
+
+.tasktitle{
+     border: 1px solid #007bff;
+     border-radius: 180px;
+     padding: 10px;
+     color:#212121;
+     font-weight: lighter;
+}
+
+.addDiv{
+    font-family: 'Open Sans', 'sans-serif';
+    padding-bottom: 30px;
+}
+
+.row{
+  padding-right:20%;
+  padding-left: 20%;
+}
+
+.col-md-6{
+    padding-top:10px;
+    padding-bottom: 30px;
+}
+
+.btn{
+    min-width: 100%;
+    
+}
+
+.mainTODO{
+    
+    margin-bottom: 20px;
+}

@@ -1,0 +1,34 @@
+.RegisterComponent{
+    padding-bottom:80px;
+}
+.ninjaRegister{
+    padding:50px;
+    padding-bottom: 10px;
+}
+.page-header{
+    font-family: 'Open Sans', 'sans-serif';
+    padding-bottom: 30px;
+}
+
+.float-center{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px ;
+    padding-bottom: 50px;
+    max-width: 25%;
+    max-height: 25%;
+}
+
+.center {
+    text-align: center;
+    padding:20px; 
+    max-width: 100%;
+    padding-top: 30px;
+
+}
+
+.btn{
+    padding-left: 40px;
+    padding-right: 40px;
+}

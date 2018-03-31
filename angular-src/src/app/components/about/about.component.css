@@ -1,0 +1,39 @@
+.mainDiv{
+	padding:50px;
+	font-family: 'Open Sans', 'sans-serif';
+}
+
+.row{
+	padding-top: 35px;
+
+
+}
+.col-md-4{
+	padding:10px;
+    
+}
+
+.float-center{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px ;
+	padding-bottom: 50px;
+	max-width: 40%;
+    max-height: 40%;
+}
+.mainDiv{
+	padding:50px;
+	font-family: 'Open Sans', 'sans-serif';
+}
+
+.row{
+	padding-top: 35px;
+
+
+}
+.col-md-4{
+	padding:10px;
+    
+}
+

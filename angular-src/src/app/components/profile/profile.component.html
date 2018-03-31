@@ -1,0 +1,25 @@
+<div class="profileComponent">
+    <div class = "ninjaRegister">
+        <img class ="float-center img-fluid" src="assets/img/todoninja.png" alt="TO-DO TIGER IS STILL WATCHING YOU">
+    </div>
+    <div class="addDiv">
+    <h2 class="page-header text-center">ADD SOME TASKS HERE</h2>
+</div>
+    <div class = "mainTODO">
+      <form (submit) = "onTaskSubmit()">
+          <div class="row">
+              <div class="col-md-6">
+                    <input type="text" class="form-control" [(ngModel)]="task" name="task" placeholder="Swimmimg, Studyig, Playing etc...">
+              </div>
+              <div class="col-md-6">
+                    <input type="submit" class="btn btn-primary" value="Add Task">
+              </div>
+          </div>
+      </form>
+    </div>
+
+    <div *ngIf="task" class="row">
+            <h4 class="page-header tasktitle">{{task}}</h4>
+           
+          </div>
+</div> 
